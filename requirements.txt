@@ -1,0 +1,16 @@
+# =====================================================================
+# Offline AI Chatbox - Requirements
+# =====================================================================
+#
+# NOTE: The core project runs on 100% Python Standard Library!
+# No pip installations are required to run the Desktop GUI,
+# Web UI, or Terminal CLI out-of-the-box.
+#
+# Tested on Python 3.9, 3.10, 3.11, 3.12, 3.13, 3.14+
+#
+# Optional enhancements (installed automatically if desired):
+# -------------------------------------------------------------
+# requests>=2.31.0          # Alternative HTTP client
+# rich>=13.0.0              # Enhanced terminal styling
+# ollama>=0.3.0             # Official Ollama Python SDK
+# customtkinter>=5.2.0      # Advanced Tkinter theming
